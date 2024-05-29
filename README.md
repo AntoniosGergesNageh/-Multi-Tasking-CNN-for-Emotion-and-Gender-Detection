@@ -1,6 +1,6 @@
 # Multi-Tasking Convolutional Neural Network for Emotion and Gender Detection
 
-![Project Banner](Live cam.png]())
+![Project Banner](Live%20cam.png)
 
 ## Overview
 
